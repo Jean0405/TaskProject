@@ -66,7 +66,7 @@ Las funcionalidades principales son:
 
 ## Video de demostración
 
-Puedes ver el video de demostración [aquí]().
+https://github.com/user-attachments/assets/e07f3489-74bb-4783-a6a0-eab005141488
 
 ---
 
